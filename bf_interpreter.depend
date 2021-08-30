@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1630052996 source:/home/aiden/Desktop/Programming Stuff/C++/bf_interpreter/Token.cpp
+	<iostream>
+	<string>
+	<type_traits>
+	"Token.h"
+
+1630053257 /home/aiden/Desktop/Programming Stuff/C++/bf_interpreter/Token.h
+	<iostream>
+
+1630232997 source:/home/cold/Desktop/programming/C++/bf_interpreter/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Token.h"
+
+1630217311 /home/cold/Desktop/programming/C++/bf_interpreter/Token.h
+	<iostream>
+
+1630217435 source:/home/cold/Desktop/programming/C++/bf_interpreter/Token.cpp
+	<iostream>
+	<string>
+	<type_traits>
+	"Token.h"
+
